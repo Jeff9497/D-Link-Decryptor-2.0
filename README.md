@@ -15,7 +15,7 @@ This script transforms the binary code from D-Link router firmware `.bin` files 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/dlink-firmware-decryptor.git](https://github.com/Jeff9497/D-Link-Decryptor-2.0
+    git clone https://github.com/Jeff9497/D-Link-Decryptor-2.0
     cd D-link-Decryptor-2.0
     ```
 
